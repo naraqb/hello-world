@@ -1,6 +1,3 @@
 # hello-world
-Datasets and tutorial files
-
-Repository created to receive MNIST dataset.
-
-Delete some files
+First repository. Geerated form a to learn git.
+Possible contents: datasets and tutorial files.
